@@ -111,8 +111,6 @@ Each folder contains the outputs I've worked on throughout the course, along wit
 | **06** | 📚 Activity 6 — To Be Updated | [View Activity](./Activity-6/) |
 | **07** | 💻 Activity 7 — To Be Updated | [View Activity](./Activity-7/) |
 
-> ☕ **A little note:** Activity 4 also serves as our Presentation Exam, where our group discussed Google Docs and its practical applications.
-
 <div align="center">
 
 𓍯 ────────── ✦ ────────── 𓍯
