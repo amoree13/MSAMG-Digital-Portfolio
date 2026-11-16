@@ -1,44 +1,75 @@
 
 <div align="center">
 
+<sub> ⋆｡°✩ GE 4120 · 21st Century IT Skills ✩°｡⋆ </sub>
+
 # Activity 06 — Making a Website
 
 ### 𓍯 de Amor Closet 𓍯
-*Preloved pieces, loved all over again.*
 
-**GE 4120 · 21st Century IT Skills**
+*Preloved pieces, loved all over again.* 
 
-⋆｡°✩ ───────── ✩°｡⋆
+✦ ────────── ✦ ────────── ✦
 
 </div>
 
 ## About This Activity
 
-For this activity, I created a one-page website prototype for **de Amor Closet**, a fashion business concept featuring preloved, unused, and never-worn clothing and accessories.
+For this activity, I created a **one-page website prototype** for my fashion business concept, **de Amor Closet**. The website features preloved, unused, and never-worn clothing and accessories, with the idea of giving beautiful pieces another chance to be worn and loved.
 
-I wanted the website to have a warm, vintage-inspired boutique aesthetic, so I chose cream, brown, and dusty peach as the main colors. I also incorporated elegant typography, fashion photography, and organized product sections to make the website visually appealing and easy to explore.
+I wanted my website to look like a small, curated fashion boutique rather than a typical online shopping website. I chose a **warm cream, brown, and dusty peach color palette**, along with elegant typography, fashion photography, and a minimal cat logo to create a soft, vintage-inspired appearance.
 
-I used **Replit** to develop the website based on my detailed design instructions. The focus was on creating the layout and overall appearance rather than a fully functional online shopping platform.
+I used **Replit** to bring my concept to life by providing detailed instructions about the layout, colors, fonts, images, and overall design. Since this was a visual website prototype, I focused more on its appearance and organization rather than creating a fully functional online shopping system.
 
-## What Have I Learned?
+## Objective of the Website
 
-Through this activity, I learned how detailed instructions can help translate my ideas into an actual website design. One of the challenges I encountered was getting the colors, typography, images, and arrangement of each section to look consistent with what I had imagined. I addressed this by making my instructions more specific and experimenting with different design details. This experience helped me understand the importance of planning, patience, and visual organization when creating a website. In the future, I would like to explore more website-building features and learn how to make my designs more interactive and functional.
+My objective was to create a visually appealing and organized website that could represent a small fashion business. I wanted to apply basic website design principles such as color coordination, typography, visual hierarchy, and layout while exploring how digital tools can help turn a business concept into something more presentable.
 
-## Activity Documentation
+## My Design Choices
 
-My complete documentation includes the website objective, prompts, screenshots, and personal reflection.
+| Design Element | My Approach |
+| :-- | :-- |
+| **Color Palette** | Warm cream, brown, dusty peach, and subtle orange accents |
+| **Typography** | Elegant serif headings combined with simple, readable body text |
+| **Layout** | Editorial-style sections with asymmetrical images and generous spacing |
+| **Branding** | A minimal cat logo representing de Amor Closet |
+| **Visual Elements** | Fashion photography, product displays, and coordinated backgrounds |
+| **Website Tool** | Replit |
 
-[📂 View My Activity 6 Documentation (PDF)](./activity%206.pdf)
+##  What Have I Learned?
+
+Creating de Amor Closet was both exciting and challenging because it was my first time designing a website like this. Although I already had an idea of how I wanted everything to look, I found it difficult to translate that idea into an actual website, especially when it came to choosing the right colors, fonts, and arrangement of each section.
+
+I addressed these challenges by making my instructions more detailed and experimenting with different design elements until the website looked closer to what I had imagined. Through this activity, I learned the importance of creativity, patience, planning, and giving clear instructions when using website-building tools.
+
+In the future, I would like to explore more website development features and learn how to make my designs not only visually appealing but also more interactive and functional.
+
+## My Activity Documentation
+
+My complete PDF documentation includes:
+
+- Objective of the website
+- Screenshots and details of my prompt
+- Screenshots of my finished website
+- Personal reflection about the activity
+
+<div align="center">
+
+### [View My Activity 6 Documentation (PDF)](./activity%206.pdf)
+
+</div>
 
 <br>
 
 <div align="center">
 
-⋆｡°✩ ───────── ✩°｡⋆
+ ────────── ✦ ────────── 
 
-*Made with creativity, patience, and a little trial and error.* 🤎
+*Turning little ideas into something meaningful, one design at a time.* 
 
 **✦ Maria Sophia Amor M. Grantos ✦**
+
+[← Activity 5](../Activity-5/) · [Back to My Portfolio](../README.md) · [Activity 7 →](../Activity-7/)
 
 </div>
 
