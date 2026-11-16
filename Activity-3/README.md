@@ -43,6 +43,6 @@ This activity taught me how important it is to simplify information before turni
 
 *Organized ideas, thoughtful design, and a lesson in making information clearer.* 
 
-[← Activity 2](../Activity-2/) · [Back to My Portfolio](../README.md)
+[← Activity 2](../Activity-2/) · [Back to My Portfolio](../README.md) · [Activity 4 →](../Activity-4/)
 
 </div>
