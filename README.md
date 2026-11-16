@@ -89,7 +89,7 @@ Throughout **GE 4120: 21st Century IT Skills**, I've had the opportunity to expl
 
 </div>
 
-## 📂 04. My Portfolio Collection
+## 04. My Portfolio Collection
 
 Welcome to my little collection of activities and projects for **GE 4120: 21st Century IT Skills**!
 
