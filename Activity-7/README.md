@@ -46,13 +46,32 @@ I realized that a good résumé is not necessarily the one with the most informa
 
 In the future, I can apply what I learned when preparing professional documents, improving my résumé, and using AI tools more responsibly in my academic and nursing career.
 
+
 ## My Final Résumé
 
-After reviewing both outputs, I prepared an improved one-page résumé tailored to an entry-level Operating Room Nurse position.
+After comparing the outputs from ChatGPT and Gemini, I prepared an improved one-page résumé tailored to an entry-level Operating Room Nurse position.
 
 <div align="center">
 
-### [View My Final OR Nurse Résumé (PDF)](./activity 7-2.pdf)
+<h3> My Final OR Nurse Résumé</h3>
+
+<img src="./activity%207-2.png"
+     alt="My Final Operating Room Nurse Résumé"
+     width="550" />
+
+<p><i>✦ My final one-page OR Nurse résumé ✦</i></p>
+
+</div>
+
+## Complete Activity 7 Documentation
+
+My complete documentation includes the original prompt, ChatGPT and Gemini outputs, comparison table, personal reflection, and final résumé.
+
+<div align="center">
+
+<a href="./activity%207-1.pdf">
+  <b> View My Complete Activity 7 Paper (PDF)</b>
+</a>
 
 </div>
 
@@ -62,11 +81,11 @@ After reviewing both outputs, I prepared an improved one-page résumé tailored 
 
  ────────── ✦ ────────── 
 
-*Learning to use AI thoughtfully, creatively, and responsibly.* 
+<p><i>Learning to use AI thoughtfully, creatively, and responsibly.</i> </p>
 
-**✦ Maria Sophia Amor M. Grantos ✦**
+<p><b>✦ Maria Sophia Amor M. Grantos ✦</b></p>
 
-[← Activity 6](../Activity-6/) · [Back to My Portfolio](../README.md)
+<a href="../Activity-6/">← Activity 6</a> ·
+<a href="../README.md">Back to My Portfolio</a>
 
 </div>
-
