@@ -41,7 +41,7 @@ I learned that choosing a color palette and typography takes more thought than I
 
 <div align="center">
 
-☕ ────────── ✦ ────────── ☕
+ ────────── ✦ ────────── 
 
 *Learning how to make the little details work together.* 
 
