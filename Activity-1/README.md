@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<sub> ⋆｡°✩ GE 4120 · 21st Century IT Skills ✩°｡⋆ ☕</sub>
+<sub> ⋆｡°✩ GE 4120 · 21st Century IT Skills ✩°｡⋆ </sub>
 
 # Activity 01 — Presentation Design Principles
 
