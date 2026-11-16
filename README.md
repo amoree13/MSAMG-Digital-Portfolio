@@ -108,8 +108,8 @@ Each folder contains the outputs I've worked on throughout the course, along wit
 | **03** | 📊 Social Media Infographics & Mini Project Documentation | [View Activity](./Activity-3/) |
 | **04** | 📄 Presentation Exam: Google Docs | [View Activity](./Activity-4/) |
 | **05** | 🤖 AI Tools Activity | [View Activity](./Activity-5/) |
-| **06** | 📚 Activity 6 — To Be Updated | [View Activity](./Activity-6/) |
-| **07** | 💻 Activity 7 — To Be Updated | [View Activity](./Activity-7/) |
+| **06** | 🌐 Making a Website | [View Activity](./Activity-6/) |
+| **07** | 💻 Making a Resume | [View Activity](./Activity-7/) |
 
 <div align="center">
 
